@@ -22,10 +22,10 @@ This website is designed to provide an attractive and user-friendly online exper
 
 ## Getting Started
 
-To view the project, simply clone this repository and open the `index.html` file in your web browser.
+To view the project, simply clone this repository and open the `index.html` file in your web browser. Alternatively, you can visit the live site by clicking the link below:
+
+[**Visit Restaurant Website**](https://shafaet1074.github.io/Restaurant-website/)
 
 ```bash
 git clone https://github.com/YourUsername/restaurant-website.git
 cd restaurant-website
-##Visit the Site
-https://shafaet1074.github.io/Restaurant-website/
