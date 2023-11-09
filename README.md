@@ -27,3 +27,5 @@ To view the project, simply clone this repository and open the `index.html` file
 ```bash
 git clone https://github.com/YourUsername/restaurant-website.git
 cd restaurant-website
+##Visit the Site
+https://shafaet1074.github.io/Restaurant-website/
